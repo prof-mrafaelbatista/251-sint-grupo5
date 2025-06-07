@@ -1,0 +1,4 @@
+programação::é o processo de criar instruções, ou código, que um computador pode seguir para executar tarefas. Em termos mais simples: Programar: é dar instruções a um computador.
+python::linguagem de programação de alto nível
+algoritimo::conjunto das regras e procedimentos lógicos perfeitamente definidos que levam à solução de um problema em um número finito de etapas.
+IA::é um campo da ciência da computação que visa criar máquinas e sistemas capazes de realizar tarefas que geralmente exigem inteligência humana. Isso inclui raciocínio, aprendizado, tomada de decisões, reconhecimento d
